@@ -5,6 +5,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:quotes_app/second_screen.dart';
 
+//Trigger GitHub linguist reanalysis
 void main() {
   runApp(const MyApp());
 }
